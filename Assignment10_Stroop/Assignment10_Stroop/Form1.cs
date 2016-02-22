@@ -12,6 +12,13 @@ using System.Windows.Forms;
 Jacob Stroop
 CIS 353 - Assignment 10
 2/21/16
+
+    I think most of this code would be
+    better off in another class where
+    the event handlers are left only to call
+    the appropriate external class methods,
+    but there's no more time for refactoring
+    tonight. :)
 */
 
 namespace Assignment10_Stroop
