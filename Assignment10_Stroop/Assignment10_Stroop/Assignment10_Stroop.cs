@@ -4,9 +4,15 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+Jacob Stroop
+CIS 353 - Assignment 10
+2/21/16
+*/
+
 namespace Assignment10_Stroop
 {
-    static class Program
+    static class Assignment10_Stroop
     {
         /// <summary>
         /// The main entry point for the application.
