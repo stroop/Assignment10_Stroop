@@ -16,7 +16,7 @@ namespace Assignment10_Stroop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new GuessANumber());
         }
     }
 }

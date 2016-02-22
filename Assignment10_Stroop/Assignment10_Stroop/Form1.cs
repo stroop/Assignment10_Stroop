@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Assignment10_Stroop
 {
-    public partial class Form1 : Form
+    public partial class GuessANumber : Form
     {
-        public Form1()
+        public GuessANumber()
         {
             InitializeComponent();
         }
